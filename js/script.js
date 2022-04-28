@@ -44,14 +44,15 @@ document.addEventListener('DOMContentLoaded', function() {
     userInput.value = ''
   }) // EVENT listener
 
+
   // cool color buttons
   const buttonOne = document.querySelector('#button-1')
   const buttonTwo = document.querySelector('#button-2')
   // console.log(buttonOne, buttonTwo)
   buttonOne.addEventListener('click', handleCoolColorClick)
   buttonTwo.addEventListener('click', handleCoolColorClick)
-
 }) // DOM 
+
 
 
 // change properties of html elements
