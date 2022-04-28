@@ -2,3 +2,9 @@ html {
   background-color: black;
   color: hotpink
 }
+
+.cool-color {
+  background-color: darkturquoise;
+  color: hotpink;
+  padding: 50px;
+}
